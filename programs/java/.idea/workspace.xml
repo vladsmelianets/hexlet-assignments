@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="048d8e7f-2bcd-4b3a-ab69-7e6a39a4cbeb" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/advanced-streams">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/classes-and-objects">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/code-generation">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/errors">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/generics">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/http">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/inheritance">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/interfaces">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/lambdas">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/lists">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/maps">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/other-collections">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/patterns">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/reflections">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/streams">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/subtyping">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/tests">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CsyE46hJWP2Kosb5JlS2LEIS2I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "//wsl$/Ubuntu/home/vlad_smelianets/Hexlet/java/exercises",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.41379312",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="048d8e7f-2bcd-4b3a-ab69-7e6a39a4cbeb" name="Changes" comment="" />
+      <created>1659605471130</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659605471130</updated>
+      <workItem from="1659605472280" duration="1098000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
